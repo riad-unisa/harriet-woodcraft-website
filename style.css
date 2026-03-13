@@ -118,3 +118,11 @@ footer {
         margin: 10px 0;
     }
 }
+/* Smooth hover effect for navigation */
+nav a {
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #f4d7a1;
+}
