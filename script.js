@@ -31,3 +31,6 @@ form.reset();
 }
 
 });
+window.onload = function() {
+    alert("Welcome to Harriet Boone Woodcraft!");
+};
